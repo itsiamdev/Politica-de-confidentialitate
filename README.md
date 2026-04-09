@@ -4,7 +4,7 @@
 
 This is a simple web application that displays the privacy policy for a To Do List app. The page is built using HTML and CSS, providing a clean and professional layout for users to understand how their data is handled.
 
-**Live Demo:** [https://iam269.github.io/Politica-de-confidentialitate/](https://iam269.github.io/Politica-de-confidentialitate/)
+**Live Demo:** [https://itsiamdev.github.io/Politica-de-confidentialitate/](https://itsiamdev.github.io/Politica-de-confidentialitate/)
 
 ## Features
 
